@@ -1,2 +1,2 @@
 # Portfolio
-Data Analysis 
+Here you can check my projects in data and other areas. 
